@@ -144,7 +144,7 @@ pip install -e ".[dev]"
 pytest
 ```
 
-The tests don't touch the network. CI runs them on Linux, macOS and Windows with Python 3.11 to 3.13.
+The tests don't touch the network. CI runs them on Linux and Windows with Python 3.11 to 3.13.
 
 ## License
 
